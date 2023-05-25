@@ -744,7 +744,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/discuss_on")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f""https://t.me/discuss_on)
+                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://t.me/discuss_on")
 
             ]]
             btn_lzdv = [
